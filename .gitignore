@@ -1,0 +1,10 @@
+.cache/
+/build
+/bin
+/DBServer/version.h
+.vscode/launch.json
+third_party/breakpad/lib
+third_party/libuv-1.44.1/lib
+third_party/mariadb-connector-1.0.1/lib
+third_party/spdlog-1.10.0/lib
+third_party/v8-10.3/lib

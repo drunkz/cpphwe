@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "files.eol": "\n",
+    "cmake.setBuildTypeOnMultiConfig": true,
+    "gitlens.codeLens.enabled": false,
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "lldb.showDisassembly": "auto",
+    "search.exclude": {
+        "**/third_party": true
+    }
+}

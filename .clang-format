@@ -1,0 +1,13 @@
+IndentWidth: 4
+ColumnLimit: 150
+IndentCaseLabels: true
+DerivePointerAlignment: false
+PointerAlignment: Left
+AlignOperands: true
+AlignConsecutiveAssignments: false
+AlignConsecutiveDeclarations: false
+AlignTrailingComments: true
+AccessModifierOffset: -2
+MaxEmptyLinesToKeep: 1
+SpacesInParentheses: false
+AllowShortFunctionsOnASingleLine: false
